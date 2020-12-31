@@ -1,2 +1,2 @@
 # class-readings-repo
-Class Readings 
+Path to a free self-taught education in the Anthropology of Videogames! 
