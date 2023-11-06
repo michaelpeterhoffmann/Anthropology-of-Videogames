@@ -94,7 +94,23 @@ Entertainment Software Association. 2019. Essential Facts about the Computer and
 - Snodgrass, Jeffrey, Lacy, Michael, Dengah II, Francois, Fagan Jesse 2011. Enhancing one life rather than living two: Playing MMOs with offline friends. Computers in human behavior
 pp. 1211-1222.
 
+## Week 4: Violence, Addiction and Videogames
 
+### Key Readings
+
+- Allen, R. 2017. America’s Digital Army: Games at Work and War. Lincoln, NE: University of Nebraska Press. Chapter 2. 
+- Coulson Mark & Ferguson Christopher J. 2016. The Influence of Digital Games on Aggression and Violent Crime“ in Kowert, R. & Quandt., T. The Video Game Debate: Unravelling the Physical, Social, and Psychological Effects of Video Games (English Edition). New York, Routledge. Chapter 4. Pp. 54-74. 
+
+
+### Question for debatte: What physical, social and psychological effects do video games have on the player?
+
+### Further Readings: 
+- Calleja, Gordon. 2010. Digital Games and Escapism. Games and Culture 5 (4), pp.335-353. 
+- Castranova, Edward. 2007. Exodus To The Virtual World. St. Martin Press. New York.
+- McGonigal, Jane 2011. Reality is Broken: Why Games Make Us Better and How They Can Change the World. London: Jonathan Cape. 
+- Pötzsch H. Selective Realism: Filtering Experiences of War and Violence in First- and Third-Person Shooters. Games and Culture.
+- Schroeder, Jens. 2011. ‚Killer Games‘ Versus ‚We Will Fund Violence’ – The Perception of Digital Games and Mass Media in Germany and Australia. Berlin: Peter Lang GmbH, Internationaler Verlag der Wissenschaften.
+- Schüll, N. 2012. Addiction by design: machine gambling in Las Vegas. Princeton University Press.
 
 
 
