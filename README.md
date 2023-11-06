@@ -1,6 +1,6 @@
 # The Anthropology of Videogames
 I created this reading list when teaching a self-designed course titled "The Anthropology of Videogames" at university. 
-If you want to expand on it, please let me know, happy to add more readings to the list. 
+
 
 # General Readings to start getting into the topic: 
 - Allen, R. 2017. America’s Digital Army: Games at Work and War. Lincoln, NE: University of Nebraska Press. 
