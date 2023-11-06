@@ -112,6 +112,27 @@ pp. 1211-1222.
 - Schroeder, Jens. 2011. ‚Killer Games‘ Versus ‚We Will Fund Violence’ – The Perception of Digital Games and Mass Media in Germany and Australia. Berlin: Peter Lang GmbH, Internationaler Verlag der Wissenschaften.
 - Schüll, N. 2012. Addiction by design: machine gambling in Las Vegas. Princeton University Press.
 
+## Week 5: War Simulation Games
+
+### Key Readings
+- Allen, R. 2017. America’s Digital Army: Games at Work and War. Lincoln, NE: University of Nebraska Press. Kapitel 5. Pp. 115-147. 
+- Allen, R. 2017. America’s Digital Army: Games at Work and War. Lincoln, NE: University of Nebraska Press. Kapitel 6. Pp. 147-167. 
+
+### Question for debatte: How is war portrayed in war simulation games? 
+
+### Further Readings: 
+- Allen R. The Unreal Enemy of America’s Army. Games and Culture. 2011;6(1):38-60.
+- Bogost, Ian 2007. Persuasive Games: The Expressive Power of Videogames. Cambridge, MA: M.I.T. University Press. 
+- Crogan, Patrick. 2011. Gameplay Mode: War, Simulation, and Technoculture. University of Minnesota 
+- Dunningham, James. 1992. The Complete Wargames Handbook: How to Play, Design, and Find Them. New York. Quill.
+- Dyer-Whiteford, Nick and de Peuter, Greig. 2009. Games of Empire. University of Minnesota: University of Minnesota Press. 
+- Ferrara, John. 2017. Games for Persuasion: Argumentation, Procedurality, and the Lie of Gamification . Games and Culture
+- Fogg, B.J. 2003. Persuasive Technology: Using Computers to Change What We Think and Do (Interactive Technologies). San Fransisco, Morgan Kaufman. 
+- Lenoir, Timothy. 2000. "All But War Is Simulation: The Military Entertainment Complex," Configurations, Vol 8 (2000), pp. 238-335.
+- Lenoir,. Timothy.2003. "Programming Theaters of War: Gamemakers as Soldiers," in Robert Latham, ed., Bombs and Bandwidth: The Emerging Relationship between IT and Security, New York: New Press, 2003, pp. 175-198.
+- Lenoir, Timothy. 2003. Fashioning the Military Entertainment Complex," Correspondence: An International Review of Culture and Society, Vol. 10, Winter/Spring, 2002-2003, pp. 14-16.
+- Whitehead, N. & Finnström, Sverker. 2013. Virtual War and Magical Death: Technologies and Imaginieries for Terror and Killing. 
+- Wright, Evan. Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War. New York: Putnam. 
 
 
 
