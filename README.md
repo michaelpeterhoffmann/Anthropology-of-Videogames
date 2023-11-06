@@ -69,8 +69,42 @@ Entertainment Software Association. 2019. Essential Facts about the Computer and
 
 - Salen, K. & Zimmermann, E. Rules of Play: Game Design Fundamentals. M.I.T. Press
 
-- „Video Game History Timeline“, National Museum of Play, 
-https://www.museumofplay.org/about/icheg/video-game-history/timeline
+- „Video Game History Timeline“, National Museum of Play. https://www.museumofplay.org/about/icheg/video-game-history/timeline
 
 - Woodcock, Jamie-2019. Marx at the Arcade: Consoles, Controllers, and Class Struggle. Haymarket Books.
+
+## Week 3: Virtual Worlds
+
+### Key Readings
+- Boellstorff, T. 2008. Coming of age in Second Life: an anthropologist explores the virtually human. Princeton: Princeton University Press. Chapter 2. Pp.32-60
+- Malaby, T. 2009. Making virtual worlds: Linden Lab and Second Life. Ithaca: Cornell University Press. Kapitel 1: 17-46.
+
+### Question for debatte: What are virtual worlds? 
+
+### Further Readings: 
+- Bainbridge, William Sims. 2010. The Warcraft Civilization. Social Science in a Virtual World. M.I.T. M.I.T. University Press
+- Boellstorff, T., B. Nardi, C. Pearce, & T.L. Taylor 2012. Ethnography and virtual worlds: a handbook of method. Princeton: Princeton University Press.
+- Consalvo, Mia & Begy, Jason. 2015. Players and Their Pets: Gaming Communities from Beta to Sunset. Minnesota University Press.
+- Frömming, Udine. 2013. Virtual Environments and Cultures: A Collection of Social Anthropological Research in Virtual Cultures and Landscapes. Peter Lang, GmbH. 
+- Golub. Alex. 2014. The Anthropology of Virtual Worlds: World of Warcraft. Reviews in Anthropology, 43:2
+- Guliani, Stefano. & Valla, Daniel. 2020. Virtual Existentialism: Meaning and Subjectivity in Virtual Worlds. Palgrave Macmillan. London.
+- Kendall, Lori. 2002. Hanging Out in the Virtual Pub: Masculinities and Relationships Online. University of California Press.
+- Pearce. Celia. 2009. Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds. M.I.T. Press. M.I.T. 
+- Plesner, Ursula & Philipps, Louise. 2014. Researching Virtual Worlds: Methodologies for Studying Emergent Practices. Routledge Press. London
+- Snodgrass, Jeffrey, Lacy, Michael, Dengah II, Francois, Fagan Jesse 2011. Enhancing one life rather than living two: Playing MMOs with offline friends. Computers in human behavior
+pp. 1211-1222.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
