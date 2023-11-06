@@ -134,9 +134,47 @@ pp. 1211-1222.
 - Whitehead, N. & Finnström, Sverker. 2013. Virtual War and Magical Death: Technologies and Imaginieries for Terror and Killing. 
 - Wright, Evan. Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War. New York: Putnam. 
 
+## Week 6: Morality Play
 
+### Key Readings
+- Ryan M, Formosa P, Tulloch R. Playing Around With Morality: Introducing the Special Issue on “Morality Play.” Games and Culture. 
+- Smale S, Kors MJL, Sandovar AM. The Case of This War of Mine: A Production Studies Perspective on Moral Game Design. Games and Culture. 2019;14(4):387-409.
 
+### Question for debatte: What s 'moral game design'?
 
+### Further Readings: 
+- Briggs, Jean. 1999. Inuit Morality Play. The Emotional Education of a Three-Year-Old. Yale University Press. 
+- Butt M-AR, Dunne D. Rebel Girls and Consequence in Life Is Strange and The Walking Dead. Games and Culture. 2019;14(4):430-449.
+- Consalvo M, Staines D. Reading Ren’Py: Game Engine Affordances and Design Possibilities. Games and Culture. November 2020.
+- De Paoli, S. and Kerr, Aphra (2011) On Crimes and Punishments in Virtual Worlds: Bots, the failure of punishment and players as moral entrepreneurs. Ethics and Information Technology, 14. pp. 1-32.
+- Donald I. Just War? War Games, War Crimes, and Game Design. Games and Culture. 2019;14(4):367-386
+- Katsarov J, Christen M, Mauerhofer R, Schmocker D, Tanner C. Training Moral Sensitivity Through Video Games: A Review of Suitable Game Mechanisms. Games and Culture.
+- Laidlaw, J. 2002. For an anthropology of ethics and freedom. Journal of the Royal Anthropological Institute 8, 311-32.
+- Sicart, Miguel. 2009. The Ethics of Computer Games. M.I.T. Press. 
+- Sicart, M. 2013. Beyond Choices: The Design of Ethical Gameplay. M.I.T University Press. 
+- Schrier K. Designing Games for Moral Learning and Knowledge Building. Games and Culture.
+- Staines D, Formosa P, Ryan M. Morality Play: A Model for Developing Games of Moral Expertise. Games and Culture. 2019;14(4):410-429. 
+- Werning, Stefan.2021. Making Games. The Politics and Poetics of Game Creation Tools. M.I.T. Press. 
+
+## Week 7: E-Sports
+
+### Key Reading
+- Steinkühler, Constance. 2019. Esports Research: Critical, Empirical, and Historical Studies of Competitive Videogame Play. Games and Culture.  
+- Brock, Tom. 2017. “Roger Caillois and e-sports: On the problems of treating play as work.” Games and Culture, 12 (4): 321-329.
+
+### Question for debatte: Is e-sports work? 
+
+### Further Readings: 
+- Crawford, Garry, and Victoria K. Gosling. 2009. “More Than a game: Sports-themed video games and player narratives.” Sociology of Sport Journal 26: 50–66.
+- Harper, Todd. 2014. The Culture of Digital Fighting Games: Performance and Practice. New York: Routledge.
+- Jonasson, Kalle and Jesper Thiborg. 2010. “Electronic sport and its impact on future sport.” Sport in Society 13 (2): 287–299.
+- McCrea, Christian. 2009. “Watching Starcraft, strategy and South Korea.” In Gaming Cultures and Place in Asia-Pacific, ed. Larissa Hjorth and Dean Chan, 179–193. New York: Routledge.
+- Moeller, Ryan M., Bruce Esplin, and Steven Conway. 2009. “Cheesers, pullers, and glitchers: The rhetoric of sportsmanship and the discourse of online sports gamers.” Game Studies, 9 (2).
+- Szablewicz, Marcella. 2011. “From addicts to athletes: Participation in the discursive construction of digital games in urban China.” In Selected Papers of Internet Research, IR 12.0 conference.
+- Szablewicz, Marcella. 2016. “A realm of mere representation? ‘Live’ e-sports spectacles and the crafting of China’s digital gaming image.” Games and Culture, 11(3): 256-274.
+- Taylor, T.L. 2012. Raising the stakes: e-sports and the professsionalization of computer gaming. Cambridge, MA: The MIT Press
+- Taylor. T.L. 2018. Watch Me Play: Twitch and the Rise of Game Live Streaming. Princeton University Studies. Princeton. 
+- Witkowski, Emma. 2012. “On the Digital Playing Field: How We ‘Do Sport’ With Networked Computer Games.” Games and Culture, 7:349-374.
 
 
 
