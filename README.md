@@ -10,7 +10,7 @@ I created this reading list when teaching a self-designed course titled "The Ant
 ### Selected videogames mentioned in the reading list: 
 - America’s Army, Second Life, This War of Mine, Walden, a Game, World of Warcraft. 
 
-## Week 1; Theoretical Debattes surrounding the notion of ‚Spiel’ (Game)
+## Week 1: Theoretical Debattes surrounding the notion of ‚Spiel’ (Game)
 
 ### Key Readings
 - Huizinga, J. 1949. Homo ludens: a study of the play element in culture. London: Routledge & Kegan Paul. Read Chapter 1: „Nature and Significance of Play as a Cultural Phenomenon“. Pp.1-27
@@ -41,3 +41,36 @@ I created this reading list when teaching a self-designed course titled "The Ant
 - Sutton-Smith. 1997. The Ambiguities of Play. Harvard University Press.
 
 - Sharpe, Lynda. 2011. So You Think You Know Why Animals Play...Scientific American. Available at: https://blogs.scientificamerican.com/guest-blog/so-you-think-you-know-why-animals-play
+
+## Week 2: Social Anthropology and Videogames
+
+### Key Readings
+- Boellstorff, T. 2006. A ludicrous discipline? Ethnography and game studies. Games and Culture 1(1): 29-35.
+- Nardi, Bonnie A. 2010. My Life as a Night Elf Priest. An Anthropological Account of World of Warcraft. Michigan: University of Michigan Press. Chapter 2
+
+### Question for debatte: How have anthropologists found access to video games?
+
+### Further Readings: 
+- Carlson R, Corliss J. Imagined Commodities: Video Game Localization and Mythologies of Cultural Difference. Games and Culture.
+
+- Chaplin, Heather & Ruby, Aaron Smartbomb: The Quest for Art, Entertainment, and Big Bucks in the Videogame Revolution. Algonquin Books. New York. 
+
+- Corliss J. Introduction: The Social Science Study of Video Games. Games and Culture.
+Entertainment Software Association. 2019. Essential Facts about the Computer and Video Game Industry: 2019, Sales, Demographic and Usage Data. Available at https://www.theesa.com/wp-content/uploads/2019/05/2019-Essential-Facts-About-the-Computer-and-Video-Game-Industry.pdf
+
+- Galloway, Alexander. 2006. Gaming: Essays on Algorithmic Culture. Minnesota: University of Minnesota Press. 
+„Game Definitions“, Molleindustria, http://www.gamedefinitions.com/#
+
+- Koster, Raph: A Theory of Fun for Game Design 
+
+- Lange PG. Learning Real-Life Lessons From Online Games. Games and Culture.
+
+- O’Donnell C. The Nintendo Entertainment System and the 10NES Chip: Carving the Video Game Industry in Silicon. Games and Culture.
+
+- Salen, K. & Zimmermann, E. Rules of Play: Game Design Fundamentals. M.I.T. Press
+
+- „Video Game History Timeline“, National Museum of Play, 
+https://www.museumofplay.org/about/icheg/video-game-history/timeline
+
+- Woodcock, Jamie-2019. Marx at the Arcade: Consoles, Controllers, and Class Struggle. Haymarket Books.
+
