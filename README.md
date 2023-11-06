@@ -176,7 +176,35 @@ pp. 1211-1222.
 - Taylor. T.L. 2018. Watch Me Play: Twitch and the Rise of Game Live Streaming. Princeton University Studies. Princeton. 
 - Witkowski, Emma. 2012. “On the Digital Playing Field: How We ‘Do Sport’ With Networked Computer Games.” Games and Culture, 7:349-374.
 
+## Week 8: Videogames and the Environment
 
+### Key Reading
+- Chang, Alenda. 2011. Games as Environmental Texts. Qui Parle 19 (2): 57–84.
+- Maxwell & Miller. "Warm and Stuffy": The Ecological Impact of Electronic Games. In Zackariasson, P. & Wilson L. (eds.) The Videogame Industry, Routledge Press. 
+
+### Question for debatte: What s the Relationship between Games and the Environment?  
+
+### Further Readings:
+Abraham, B.J. & Jayemanne, D. 2017. Where are all the climate change games? Locating digital games response to climate change. Transformations. 
+
+Chang. Alenda. 2019. Playing Nature: Ecology in Video Games. 
+
+Chang, A. and Parham, John (2017) Green Computer and Video Games: An Introduction. Ecozon@: European Journal of Literature, Culture and Environment, 8 (2). pp. 1-17.
+
+Fullerton, Tracy. 2020. A Year at Play in the Woods of Walden Pond. Art Journal. 
+
+Gabrys, Jennifer. Digital Rubbish. A Natural History of Electronics. University of Michigan Press.
+
+Gordon, Lewis. 2020.  The many ways video game development impacts the climate crisis. Available at: https://www.theverge.com/2020/5/5/21243285/video-games-climate-crisis-impact-xbox-playstation-developers
+
+Isbister, Katherine. 2016. How Games Move Us. Emotion by Design. Cambridge MA, The M.I.T. Press. 
+
+Louv, Richard. 2008. Last Child in the Woods: Saving Our Children From Nature-Deficit Disorder. Algonquin Books, Chapel Hill. 
+
+Maxwell & Miller. 2012. Greening the Media. Macmillan. 
+
+Starosielski Nicole, Walker Janet. 2016. Sustainable Media: Critical Approaches to Media and Environment. Routledge University Press. 
+UNEP. 2018. How video games are joining the fight to save the planet. Available at: https://www.unenvironment.org/news-and-stories/story/how-video-games-are-joining-fight-save-planet
 
 
 
