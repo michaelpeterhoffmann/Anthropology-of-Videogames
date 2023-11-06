@@ -94,7 +94,7 @@ Entertainment Software Association. 2019. Essential Facts about the Computer and
 - Snodgrass, Jeffrey, Lacy, Michael, Dengah II, Francois, Fagan Jesse 2011. Enhancing one life rather than living two: Playing MMOs with offline friends. Computers in human behavior
 pp. 1211-1222.
 
-## Week 4: Violence, Addiction and Videogames
+## Week 4: Escapism, Violence and Addiction 
 
 ### Key Readings
 
