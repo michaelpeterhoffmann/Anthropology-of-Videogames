@@ -197,6 +197,131 @@ pp. 1211-1222.
 - Starosielski Nicole, Walker Janet. 2016. Sustainable Media: Critical Approaches to Media and Environment. Routledge University Press. 
 UNEP. 2018. How video games are joining the fight to save the planet. Available at: https://www.unenvironment.org/news-and-stories/story/how-video-games-are-joining-fight-save-planet
 
+## Week 9: Work in the Videogames Industry
+
+### Key Reading
+- De Peuter, Greig & Young, Chris. 2019. Contested Formations of Digital Game Labor. Television & New Media. Pp. 747-755. 
+- Ozimek, Anna. M. 2019. Outsourcing Digital Game Production: The Case of Polish Testers. Television & New Media. Pp. 824-835.
+
+### Question for debatte: How is work experienced in the game industry?   
+
+### Further Readings:
+- Banks J, Potts J. Co-creating games: a co-evolutionary analysis. New Media & Society. 2010;12(2):253-270.
+- Dyer-Whiteford, Nick and de Peuter, Greig. 2009. Games of Empire. University of Minnesota: University of Minnesota Press. 
+- Fuchs, Christian. 2014. Theorising and analysing digital labour: From global value chains to modes of production. The political economy of communication. Pp.3-27.
+- Johnson, M. R. and Woodcock, J. (2017) ‘It’s like the Gold Rush: The Lives and Careers of Professional Video Game Streamers on Twitch.tv’, Information, Communication and Society, 22(3): 336-351.
+- Ruberg, Bonnie. 2019. The Precarious Labor of Queer Indie Game-making: Who Benefits from Making Video Games “Better”? Television & New Media. Pp.778-788. 
+- Ruffino, P. and Woodcock, J. (2020) 'Game Workers and the Empire: Unionisation in the UK Video Game Industry', Games and Culture: a journal of interactive media.
+- Woodcock, J. (2016) ‘The work of play: Marx and the video games industry in the United Kingdom’, Journal of Gaming and Virtual Worlds, 8(2): 131-143
+- Woodcook. James & Johnson, Marc. R. 2019. The Affective Labor and Performance of Live Streaming on Twitch.tv. Television & New Media. Pp. 813-823.
+- Woodcock, J. (2020) 'How to Beat the Boss: Game Workers Unite in the UK', Capital and Class, 44(4): 523-529
+- Zackariasson, P. & Wilson, T. 2012. The Videogame Industry. Formation, Present State and Future. Routledge Press. 
+- Zhang, Lin & Fung, Anthony. 2013. Working as playing? Consumer labor, guild and the secondary industry of online gaming in China. New Media Society. 1-13.
+
+## Week 10: Globalisation and the Videogames Industry
+
+### Key Reading
+- Bulut, Ergin. 2020. A Precarious Game: The Illusion of Dream Jobs in the Video Game Industry. Cornell University Press. Introduction: FOR WHOM THE LOVE WORKS IN VIDEO GAME PRODUCTION? pp. 1-29) 
+- Kerr, A. (2013). Space wars: The politics of games production in Europe. In N. B. Huntemann & B. Aslinger (Eds.), Gaming globally: Production, play and place (pp. 215–231). New York, NY: Palgrave Macmillan. 
+
+### Question for debatte: How have global labor processes changed the video game industry? 
+
+### Further Readings:
+- Badger, A. and Woodcock, J. (2019) 'Ethnographic Methods with Limited Access: Assessing Quality of Work in Hard to Reach Jobs', in D. Wheatley (ed) Handbook of research methods on the quality of working lives, 135-146. Cheltenham: Edward Elgar.
+- Braverman, H. 1999. Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century. London: Monthly Review Press.
+- Hardt, M. and Negri, A. 2000. Empire. Cambridge: Harvard University Press.
+- Jaffe, S. Forthcoming, 2021. Work Won't Love You Back: How Devotion to Our Jobs Keeps Us Exploited, Exhausted, and Alone.
+- Keogh B. The Cultural Field of Video Game Production in Australia. Games and Culture. 2021;16(1):116-135.
+- Kerr, A. 2017. Global games: Production, circulation and policy in the networked era- New York. Routledge Press. 
+- Kücklich, J. 2005. ‘Precarious playbour: Modders and the digital games industry’, Fibreculture Journal, 5:1
+- Nakamura, L. 2009. ‘Don’t Hate the Player, Hate the Game: The Racialization of Labor in World of Warcraft’, Critical Studies in Media Communication, 26(2): 128-44.
+- O'Donnell, Casey. 2014. Developer’s Dilemma. The Secret World of Videogame Creators. M.I.T. Press. 
+- Thompson, P., Parker, R., and Cox, S. 2015. ‘Interrogating Creative Theory and Creative Work: Inside the Games Studio’, Sociology, 50(2): 316-332.
+- Zackariasson, Peter and Wilson, Timothy eds. (2012). The Video Game Industry: Formation, Present State, and Future. New York: Routledge.
+
+
+## Week 11: Indy Games
+
+### Key Reading
+- Sandqvist. U. The Development of the Swedish Game Industry: A True Success Story? In The Videogame Industry: Formation, Present State and Future. Routledge Press. 
+- Juul, J. 2003. The game, the player, the world: looking for a heart of gameness. In Level Up: Digital Games Research Conference Proceedings (ed.) M. Copier & J. Raessens, 30-45. Utrecht: University Press.
+
+### Question for debatte: What is 'indie' about Indie Games? 
+
+### Further Readings:
+- Jorgensen, K., Sandqvist, U., Sotamaa, O. 2015. From hobbyists to entrepreneurs: On the formation of the Nordic game industry. Convergence 23(5)
+- Juul, Jesper. 2019. Handmade Pixels. Independent Video Games and the Quest for Authenticity. M.I.T. Press. 
+- Guevara Villalobos, O. 2014. Artisanal Local Networks: Game Work and Culture in Independent Game Production. In Handbook of Digital Games (pp.730-750).
+- Guevara, Villalobos. O. Playful peripheries: The consolidation of independent game production in Latin America. In   Independent Videogames: Cultures, Networks, Techniques And Politics (ed. Ruffino, P.) London: Routledge Press. 
+- Harvey, A. & S. Fisher (2013.) “Making a Name in Games: Immaterial Labour, Indie Game Design, and Gendered Social Network Markets.” Information, Communication, and Society, 16(3), pp. 362-380.
+- Kerr, Aphra and Cawley, Anthony (2011) The spatialisation of the digital games industry: Lessons from Ireland. International Journal of Cultural Policy . pp. 1-21. 
+- Ruffino, Paolo. 2019. Independent Videogames: Cultures, Networks, Techniques and Politics.  Routledge Press. 
+- Simon, Bart. 2013. Indie Eh? Some Kind of Game Studies.  Indie Eh? The Journal of the Canadian Game Studies Association. Vol 7(11): 1-7
+- Srauj, Sam. 2019. Precarity and Why Indie Game Developers Can’t Save Us from Racism. Television & New Media. Pp. 802-812. 
+
+
+## Week 12: The Global History of Videogames
+
+### Key Reading
+- Šisler, V., Švelch, J., & Šlerka, J. (2017). Video Games and the Asymmetry of Global Cultural Flows: The Game Industry and Game Culture in Iran and the Czech Republic. International Journal of Communication, 11(0), 3857–3879.
+- Saarikoski ,P. & Suominen, J. 2009. Computer Hobbyists and the Gaming Industry in Finland. IEEE Annals of the History of Computing. Pp.20-33. 
+
+### Question for debatte: What is 'indie' about Indie Games? 
+
+### Further Readings:
+- Chapman, Adam. 2016. Digital Games as History: How Videogames Represent the Past and Offer Access to Historical Practice. New York. Routledge Press. 
+- Guins, Rayford. 2014. Game After: A cultural Study of Video Game Afterlife. Cambridge MA: The MIT Press. 
+- Lowood, Henry & Gains, Rayford. 2016. Debugging Game History. A Critical Lexicon. Cambridge MA, The M.I.T. Press. 
+- Newman, James.  2008. Playing with Videogames. New York. Routledge Press. 
+- Rollinger, Christian. Classical Antiquity in Video Games: Playing with the Ancient World
+- Švelch, J. (2013b). Say it with a computer game: Hobby computer culture and the non-entertainment uses of homebrew games in the 1980s Czechoslovakia. Game Studies, 13(2). 
+- Swalwell, M.,  Ndalianis, A., Stuckey. H. 2017. Fans and Videogames: Histories, Fandom, Archives. New York. Routledge Press. 
+- Svelch, Jaroslav. 2018. Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games. Cambridge MA: The MIT Press.
+- Švelch, J. (2013a). Indiana Jones fights the communist police: Local appropriation of the text adventure genre in the 1980s Czechoslovakia. In N. B. Huntemann & B. Aslinger (Eds.), Gaming globally: Production, play, and place (pp. 163–182). New York, NY: Palgrave Macmillan. 
+- Wainwright, Martin. 2019. Virtual History. How Videogames Portray the Past. New York: Routledge Press. 
+- Wolf, M. 2015.  Videogames around the World. M.I.T. Press.
+
+## Week 12: The Global History of Videogames
+
+### Key Reading
+- Šisler, V., Švelch, J., & Šlerka, J. (2017). Video Games and the Asymmetry of Global Cultural Flows: The Game Industry and Game Culture in Iran and the Czech Republic. International Journal of Communication, 11(0), 3857–3879.
+- Saarikoski ,P. & Suominen, J. 2009. Computer Hobbyists and the Gaming Industry in Finland. IEEE Annals of the History of Computing. Pp.20-33. 
+
+### Question for debatte: How have videogame industries developed at different sites across the globe?
+
+### Further Readings:
+- Chapman, Adam. 2016. Digital Games as History: How Videogames Represent the Past and Offer Access to Historical Practice. New York. Routledge Press. 
+- Guins, Rayford. 2014. Game After: A cultural Study of Video Game Afterlife. Cambridge MA: The MIT Press. 
+- Lowood, Henry & Gains, Rayford. 2016. Debugging Game History. A Critical Lexicon. Cambridge MA, The M.I.T. Press. 
+- Newman, James.  2008. Playing with Videogames. New York. Routledge Press. 
+- Rollinger, Christian. Classical Antiquity in Video Games: Playing with the Ancient World
+- Švelch, J. (2013b). Say it with a computer game: Hobby computer culture and the non-entertainment uses of homebrew games in the 1980s Czechoslovakia. Game Studies, 13(2). 
+- Swalwell, M.,  Ndalianis, A., Stuckey. H. 2017. Fans and Videogames: Histories, Fandom, Archives. New York. Routledge Press. 
+- Svelch, Jaroslav. 2018. Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games. Cambridge MA: The MIT Press.
+- Švelch, J. (2013a). Indiana Jones fights the communist police: Local appropriation of the text adventure genre in the 1980s Czechoslovakia. In N. B. Huntemann & B. Aslinger (Eds.), Gaming globally: Production, play, and place (pp. 163–182). New York, NY: Palgrave Macmillan. 
+- Wainwright, Martin. 2019. Virtual History. How Videogames Portray the Past. New York: Routledge Press. 
+- Wolf, M. 2015.  Videogames around the World. M.I.T. Press.
+
+## Week 13: Game Design, Gamification & Macht
+
+### Key Reading
+- Schull, Natasha D. 2012. Addiction by Design: Machine Gambling in Las Vegas. Princeton. 
+- O’Donnell, Casey. 2014. “Gamification, Bullshit, and the Rise of Algorithmic Surveillance.” Surveillance & Society 12: 3.
+
+### Question for debatte: What is gamification? 
+
+### Further Readings:
+- Castronova, Edward. 2005. Synthetic Worlds. Chicago. Read Chapter 9, „Governance“. 
+- Fizek, Sonia. „Gamification“ Critical Keywords for the Digital Humanities. 
+- Fizek, Soniaa & Dippel, Anne. 2016. „Ludification of Work or Labourisation of Play? On Work/play interferences in the digital times“. 
+- Golub, Alex and Kate Lingley. 2008. ““Just Like the Qing Empire”: Internet Addiction, MMOGs, and Moral Crisis in Contemporary China.” Games and Culture 3: 1. 
+- Isbister, Katherine. 2016. How Games Move Us: Emotion by Design. MIT Press. 
+- Stromberg, Peter. 2009. Caught in Play: How Entertainment Works on You. Stanford. 
+- Thompson, Clive. 2019. Coders. The Making of a New Tribe and the Remaking of the World. Prenguin Books. New York. 
+
+
+
+
 
 
 
