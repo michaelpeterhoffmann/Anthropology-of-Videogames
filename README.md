@@ -1,5 +1,10 @@
+Welcome to the "Anthropology of Videogames" repository! This is a collection of readings that I used when teaching the course at both undergraduate and master levels.
+An anthropological perspective on videogames implies to look at both the consumption and production of videogames. I encourage you to add your own readings to the list, or to make up your own reading list!
+I hope you find the reading list useful and have fun immersing yourself in this topic!
+
 # The Anthropology of Videogames
-I created this reading list when teaching a self-designed course titled "The Anthropology of Videogames" at university. 
+In summer 2021 I taught "The Anthropology of Videogames" at the MLU in Halle-Wittenberg. This was the reading list for the course! 
+Feel free to update it and add readings! 
 
 
 ## General Readings to start getting into the topic: 
